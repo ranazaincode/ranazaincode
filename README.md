@@ -12,7 +12,7 @@ I lead development efforts in building and customizing Magento-based eCommerce s
   - Built scalable Magento solutions for both B2B & B2C models.
   - Extensive experience in Magento 2 module development (Sales, Checkout, CMS, Customers, etc.).
   - Customized and maintained themes, developed custom extensions, and handled complete site revamps.
-  - Integrated Magento with ERPs (AFAS), CRMs, logistics (DHL, DPD), and marketing tools (Klaviyo, Droppery).
+  - Integrated Magento with ERPs (AFAS, SAP, E1), CRMs, logistics (DHL, DPD), and marketing tools (Klaviyo, Droppery).
   - Proficient with Magento coding standards and MFTF.
   - Contributed on [Magento Stack Exchange](https://magento.stackexchange.com/users/103983/rana-zain).
 
@@ -20,7 +20,7 @@ I lead development efforts in building and customizing Magento-based eCommerce s
   - AWS Certified DevOps Engineer – [Credential](https://www.credly.com/badges/470fee4f-6206-4471-a79f-f8721d049eac/linked_in_profile).
   - Experience with AWS (EC2, S3, RDS, CloudFormation, VPC, IAM, CloudWatch, CodePipeline).
   - CI/CD automation using GitLab CI/CD, GitHub Actions, and Azure DevOps.
-  - Managed deployments across staging and production (Cloudways, GitLab, Azure Web Apps).
+  - Managed deployments across staging and production (Cloudways, GitLab, Magento Cloud, MS Azure, Digital Ocean, Azure Web Apps).
 
 - 🧠 **Leadership & Team Collaboration:**
   - Led development teams and conducted code reviews with Magento standards.
