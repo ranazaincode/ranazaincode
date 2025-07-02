@@ -17,7 +17,7 @@ I lead development efforts in building and customizing Magento-based eCommerce s
   - Contributed on [Magento Stack Exchange](https://magento.stackexchange.com/users/103983/rana-zain).
 
 - ☁️ **DevOps & Cloud:**
-  - AWS Certified DevOps Engineer – [Credential](https://www.credly.com/badges/baa61591-ded6-49a1-a8cb-e14d0077cce1/linked_in_profile).
+  - AWS Certified DevOps Engineer – [Credential](https://www.credly.com/badges/470fee4f-6206-4471-a79f-f8721d049eac/linked_in_profile).
   - Experience with AWS (EC2, S3, RDS, CloudFormation, VPC, IAM, CloudWatch, CodePipeline).
   - CI/CD automation using GitLab CI/CD, GitHub Actions, and Azure DevOps.
   - Managed deployments across staging and production (Cloudways, GitLab, Azure Web Apps).
@@ -33,19 +33,20 @@ I lead development efforts in building and customizing Magento-based eCommerce s
   - Fixed issues tracked by New Relic & Noibu.
 
 - 🧪 **Tools & Technologies:**
-  - PHPStorm, Git, GitLab, GitHub, Docker, MySQL, Composer
+  - PHPStorm, Git, GitLab, GitHub, Docker, MySQL, Composer, Jira, Odoo, Hive, Asana, Trello, Monday.com
   - Python scripting
   - Azure Traffic Manager, Load Balancer, Repos (Git/TFVC), CI/CD
 
 ---
 
 ### 📜 Certifications
+- [Adobe Certified Expert – Adobe Commerce (Magento) Developer](https://www.credly.com/badges/baa61591-ded6-49a1-a8cb-e14d0077cce1/linked_in_profile)
+- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/470fee4f-6206-4471-a79f-f8721d049eac/linked_in_profile)
 - [Graph Developer – Professional (Apollo)](https://www.apollographql.com/tutorials/certifications/57c5e9a7-72ea-4725-83fe-bf10e227220e)
-- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/baa61591-ded6-49a1-a8cb-e14d0077cce1/linked_in_profile)
 
 ---
 
-### 📫 Connect with Me
+### 📢 Connect with Me
 - 💼 [GitHub Profile](https://github.com/ranazaincode)
 - 💬 [Magento StackExchange](https://magento.stackexchange.com/users/103983/rana-zain)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rana-zain-in/)
